@@ -1,0 +1,10 @@
+---
+# vars file for day_11
+
+region: "ap-south-1"
+ssh: "ec2-user"
+key: "Ansible"      
+git_url: "https://github.com/Prince-Philip/Ansible_Deployment.git"
+clone_dir: "/var/www/website/"
+access_key: "AKIATP2PDQGYU36HFS6M"
+secret_key: "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"
